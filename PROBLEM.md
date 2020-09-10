@@ -1,4 +1,4 @@
-# Problem Statement – Text Analyzer
+# Problem Statement – Text Analyzer Part-2
 
 <img src="img/img1.png" align="right" width="400"/>
 
